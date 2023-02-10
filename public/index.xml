@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kia personal website</title>
+    <link>https://kfarivar.github.io/</link>
+    <description>Recent content on Kia personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Feb 2023 22:55:38 -0500</lastBuildDate><atom:link href="https://kfarivar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>https://kfarivar.github.io/post/my-second-post/</link>
+      <pubDate>Mon, 06 Feb 2023 22:55:38 -0500</pubDate>
+      
+      <guid>https://kfarivar.github.io/post/my-second-post/</guid>
+      <description>blah 222222222</description>
+    </item>
+    
+    <item>
+      <title>A Story</title>
+      <link>https://kfarivar.github.io/post/a_story/</link>
+      <pubDate>Sat, 21 Jan 2023 00:03:16 -0500</pubDate>
+      
+      <guid>https://kfarivar.github.io/post/a_story/</guid>
+      <description>The story Once upon a time adivnivni voiwbvio iworhgoi
+  name
+  siqnacodn
+  def my_func(): print(&amp;#34;Hello&amp;#34;) a = 2 + 4 </description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://kfarivar.github.io/post/my-first-post/</link>
+      <pubDate>Fri, 20 Jan 2023 23:56:15 -0500</pubDate>
+      
+      <guid>https://kfarivar.github.io/post/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
+  </channel>
+</rss>

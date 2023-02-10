@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Story on Kia personal website</title>
+    <link>https://kfarivar.github.io/post/a_story/</link>
+    <description>Recent content in A Story on Kia personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Jan 2023 00:03:16 -0500</lastBuildDate><atom:link href="https://kfarivar.github.io/post/a_story/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
