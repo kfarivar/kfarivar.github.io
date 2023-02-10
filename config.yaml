@@ -1,7 +1,8 @@
 baseURL: "https://kfarivar.github.io/"
 languageCode: "en-us"
 title: "Kia personal website"
-theme: profile
+theme: "profile"
+publishDir: "docs"
 
 outputs:
   home:
